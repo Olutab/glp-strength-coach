@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Energy-Aware Coach · GLP-1 Strength Coach</title>
+<link rel="stylesheet" href="/style.css">
+<style>
+  .coach-container { max-width: 46rem; margin: 0 auto; padding: 2rem 1.25rem; }
+  .coach-form { background: var(--surface); padding: 1.5rem; border-radius: 12px; margin-bottom: 2rem; }
+  .form-group { margin-bottom: 1.25rem; }
+  .form-group label { display: block; font-weight: 600; margin-bottom: 0.4rem; font-family: var(--display); }
+  .form-group select { width: 100%; padding: 0.6rem; border: 1px solid var(--ink); border-radius: 6px; background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 1rem; }
+  .coach-btn { background: var(--accent); color: #fff; border: none; padding: 0.8rem 1.5rem; border-radius: 8px; font-weight: 600; font-size: 1.05rem; cursor: pointer; width: 100%; }
+  .coach-btn:hover { opacity: 0.9; }
+  .result-box { display: none; animation: fadeIn 0.4s ease; }
+  .result-box.active { display: block; }
+  .rec-card { background: var(--surface); border-left: 4px solid var(--accent); padding: 1.2rem; border-radius: 0 8px 8px 0; margin-bottom: 1.5rem; }
+  .rec-card h3 { margin-top: 0; font-family: var(--display); }
+  .rec-card a { font-weight: 600; color: var(--accent); text-decoration: none; }
+  .rec-card a:hover { text-decoration: underline; }
+  .limits-note { background: #fdf2e9; border-left: 4px solid var(--warning); padding: 1rem; border-radius: 0 8px 8px 0; font-size: 0.9rem; margin-top: 2rem; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="/">GLP-1 <strong>Strength Coach</strong></a>
+  <nav aria-label="Main">
+    <a href="/">Home</a>
+    <a href="/exercises/">Exercises</a>
+    <a href="/foods/">Foods</a>
+  </nav>
+</header>
+
+<main class="coach-container">
+  <h1>Today's Energy-Aware Plan</h1>
+  <p>Tell us how you feel right now. We'll match you with a session and a food strategy that respects your current capacity.</p>
+
+  <form id="coachForm" class="coach-form">
+    <div class="form-group">
+      <label for="energy">1. How is your energy today?</label>
+      <select id="energy" name="energy" required>
+        <option value="LOW">Low (rough day, nausea, or fatigue)</option>
+        <option value="MODERATE" selected>Moderate (feeling decent, normal day)</option>
+        <option value="HIGH">High (feeling strong, well-rested)</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="equip">2. What equipment do you have handy?</label>
+      <select id="equip" name="equip" required>
+        <option value="BODYWEIGHT">Just my bodyweight (or a sturdy chair)</option>
+        <option value="LIGHT_DUMBBELLS">Light dumbbells</option>
+        <option value="BOTH">Bodyweight and light dumbbells</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="time">3. How much time can you commit?</label>
+      <select id="time" name="time" required>
+        <option value="20">~20 minutes (quick & gentle)</option>
+        <option value="30" selected>~30 minutes (standard)</option>
+        <option value="40">~40 minutes (full focus)</option>
+      </select>
+    </div>
+    <button type="submit" class="coach-btn">Generate My Plan</button>
+  </form>
+
+  <div id="results" class="result-box">
+    <h2>Your Personalized Plan</h2>
+    <p><em>Shareable link updated. Bookmark this page to save your plan.</em></p>
+    
+    <div class="rec-card">
+      <h3>🏋️ Recommended Session</h3>
+      <p id="sessionName">Loading...</p>
+      <p id="sessionDesc"></p>
+      <a id="sessionLink" href="#">Read the full session guide →</a>
+    </div>
+
+    <div class="rec-card">
+      <h3>🍎 Supporting Food Strategy</h3>
+      <p id="foodName">Loading...</p>
+      <p id="foodDesc"></p>
+      <a id="foodLink" href="#">See portion math and pairings →</a>
+    </div>
+
+    <div class="limits-note">
+      <strong>Method & Limits:</strong> This tool filters our library based on your stated energy tier and equipment. It is a planning aid, not medical advice. If your symptoms (nausea, dizziness, pain) escalate, skip the session entirely and consult your prescriber. The "deload" is always a valid, planned choice, never a failure.
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <p class="fine">© 2026 GLP-1 Strength Coach. Training guidance, not medical advice.</p>
+</footer>
+
+<script>
+  // 1. Read URL params on load
+  const params = new URLSearchParams(window.location.search);
+  if (params.has('energy')) document.getElementById('energy').value = params.get('energy');
+  if (params.has('equip')) document.getElementById('equip').value = params.get('equip');
+  if (params.has('time')) document.getElementById('time').value = params.get('time');
+
+  let matrixData = [];
+
+  // 2. Fetch the lightweight data
+  fetch('/matrix.json')
+    .then(res => res.json())
+    .then(data => {
+      matrixData = data;
+      // If params exist on load, run the generator immediately
+      if (params.has('energy')) generatePlan();
+    })
+    .catch(err => console.error('Failed to load matrix.json', err));
+
+  // 3. Handle form submission
+  document.getElementById('coachForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    generatePlan();
+  });
+
+  function generatePlan() {
+    const energy = document.getElementById('energy').value;
+    const equip = document.getElementById('equip').value;
+    const time = document.getElementById('time').value;
+
+    // Update URL without reloading
+    const newUrl = `${window.location.pathname}?energy=${energy}&equip=${equip}&time=${time}`;
+    window.history.pushState({}, '', newUrl);
+
+    // Filter sessions
+    const sessions = matrixData.filter(r => 
+      r.category === 'SESSION' && 
+      r.demand_tier === energy && 
+      (r.equipment === equip || r.equipment === 'BOTH')
+    );
+
+    // Filter low-energy-friendly foods (always recommend LOW demand tier foods for GLP-1)
+    const foods = matrixData.filter(r => 
+      r.category === 'FOOD' && 
+      r.demand_tier === 'LOW'
+    );
+
+    // Pick top matches (deterministic based on array order)
+    const bestSession = sessions[0] || { entity_name: 'Custom Deload', summary_fact: 'Take a gentle walk and rest. Attendance is still a win.', slug: 'session-deload-week' };
+    const bestFood = foods[Math.floor(Math.random() * Math.min(3, foods.length))] || { entity_name: 'Whey Protein', summary_fact: 'A small shake requires minimal appetite.', slug: 'whey-protein' };
+
+    // Render
+    document.getElementById('sessionName').textContent = bestSession.entity_name;
+    document.getElementById('sessionDesc').textContent = bestSession.summary_fact;
+    document.getElementById('sessionLink').href = `/plans/${bestSession.slug}/`;
+
+    document.getElementById('foodName').textContent = bestFood.entity_name;
+    document.getElementById('foodDesc').textContent = bestFood.summary_fact;
+    document.getElementById('foodLink').href = `/foods/${bestFood.slug}/`;
+
+    document.getElementById('results').classList.add('active');
+    document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+  }
+</script>
+</body>
+</html>

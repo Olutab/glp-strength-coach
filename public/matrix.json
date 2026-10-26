@@ -1,0 +1,722 @@
+[
+  {
+    "slug": "goblet-squat",
+    "entity_name": "Goblet Squat",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "Hip-hinge squat holding a light dumbbell at chest height; 3×8–10 typical",
+    "deload_variant": "Drop to bodyweight box squat to a chair; halve the sets"
+  },
+  {
+    "slug": "wall-pushup",
+    "entity_name": "Wall Push-Up",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Vertical pressing pattern with minimal shoulder load; 3×10–12",
+    "deload_variant": "Reduce range by stepping 15cm closer to the wall"
+  },
+  {
+    "slug": "bodyweight-row",
+    "entity_name": "Inverted Row",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Horizontal pull under a sturdy table or with a suspension strap; 3×6–8",
+    "deload_variant": "Switch to a standing band row with lighter tension"
+  },
+  {
+    "slug": "bird-dog",
+    "entity_name": "Bird-Dog",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Anti-rotation core stabiliser on all fours; 3×6 per side",
+    "deload_variant": "Knees only — lift just one limb at a time"
+  },
+  {
+    "slug": "glute-bridge",
+    "entity_name": "Glute Bridge",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Posterior chain activation; 3×12",
+    "deload_variant": "Keep both feet flat and lift only the hips 5cm"
+  },
+  {
+    "slug": "seated-shoulder-press",
+    "entity_name": "Seated Dumbbell Shoulder Press",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "Vertical press from a chair with back support; 3×8",
+    "deload_variant": "Switch to a seated band press with half the tension"
+  },
+  {
+    "slug": "step-up",
+    "entity_name": "Step-Up",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Unilateral leg strength onto a low step; 3×8 per side",
+    "deload_variant": "Step onto a lower book; hold onto a chair for balance"
+  },
+  {
+    "slug": "dead-bug",
+    "entity_name": "Dead Bug",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Supine core stabiliser; 3×5 per side",
+    "deload_variant": "Keep both feet on the floor; reach only one arm"
+  },
+  {
+    "slug": "calf-raise",
+    "entity_name": "Standing Calf Raise",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Calf strength for walking and balance; 3×15",
+    "deload_variant": "Hold a chair and reduce the range to a small ankle lift"
+  },
+  {
+    "slug": "reverse-lunge",
+    "entity_name": "Reverse Lunge",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Unilateral leg strength with less knee shear than forward lunges; 3×6 per side",
+    "deload_variant": "Reduce to a supported split squat with the back heel on a low book"
+  },
+  {
+    "slug": "plank-on-knees",
+    "entity_name": "Kneeling Plank",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Isometric core hold; 3×20s",
+    "deload_variant": "Drop to 10s holds and repeat"
+  },
+  {
+    "slug": "band-pull-apart",
+    "entity_name": "Band Pull-Apart",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BOTH",
+    "summary_fact": "Rear-delt and upper-back activation; 3×12",
+    "deload_variant": "Use a lighter band or reduce the range"
+  },
+  {
+    "slug": "greek-yogurt",
+    "entity_name": "Greek Yogurt, Plain Non-Fat",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "High protein per calorie with minimal appetite load; ~10g protein per 100 kcal",
+    "deload_variant": "Swap to a smaller 80g serving or a spoonful of skyr in tea"
+  },
+  {
+    "slug": "cottage-cheese",
+    "entity_name": "Cottage Cheese, Low-Fat",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Slow-digesting casein protein, easy on suppressed appetite; ~11g protein per 100 kcal",
+    "deload_variant": "A 60g snack portion rather than a full bowl"
+  },
+  {
+    "slug": "canned-tuna",
+    "entity_name": "Canned Tuna in Water, Drained",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Lean protein with negligible fat; ~21g protein per 100 kcal",
+    "deload_variant": "Half a can (~55g) as a snack"
+  },
+  {
+    "slug": "chicken-breast",
+    "entity_name": "Cooked Skinless Chicken Breast",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Highest protein-per-calorie whole food; ~31g protein per 100 kcal",
+    "deload_variant": "Shred a small amount into soup rather than eating as a slab"
+  },
+  {
+    "slug": "edamame",
+    "entity_name": "Edamame, Shelled and Cooked",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Plant protein with fibre; ~11g protein per 100 kcal",
+    "deload_variant": "A 50g side portion instead of a main"
+  },
+  {
+    "slug": "tempeh",
+    "entity_name": "Tempeh, Cooked",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Firm plant protein with gut-friendly fermentation; ~20g protein per 100 kcal",
+    "deload_variant": "Cube 40g into a stir-fry rather than eating as a steak"
+  },
+  {
+    "slug": "lentils-cooked",
+    "entity_name": "Lentils, Cooked",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Plant protein plus slow carbs; ~9g protein per 100 kcal",
+    "deload_variant": "A small 80g side portion"
+  },
+  {
+    "slug": "tofu-firm",
+    "entity_name": "Firm Tofu, Raw",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Neutral plant protein base; ~8g protein per 100 kcal",
+    "deload_variant": "Crumble 60g into a scramble"
+  },
+  {
+    "slug": "sardines-canned",
+    "entity_name": "Sardines Canned in Water",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Protein plus omega-3 and calcium from bones; ~25g protein per 100 kcal",
+    "deload_variant": "Half a tin as a snack"
+  },
+  {
+    "slug": "whey-protein",
+    "entity_name": "Whey Protein Isolate, Plain",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Concentrated protein with almost zero appetite load; ~90g protein per 100g powder",
+    "deload_variant": "Half a scoop in water when appetite is very low"
+  },
+  {
+    "slug": "eggs-whole",
+    "entity_name": "Whole Egg, Boiled",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Complete protein with fat and micronutrients; ~13g protein per 100 kcal",
+    "deload_variant": "One egg as a snack when appetite is minimal"
+  },
+  {
+    "slug": "nausea-day",
+    "entity_name": "Nausea Day Playbook",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Common in the first 4–12 weeks of GLP-1 escalation; nausea reported in ~20–40% of STEP trial participants",
+    "deload_variant": "Skip the session entirely and do a 10-minute walk; this is data, not failure"
+  },
+  {
+    "slug": "injection-day-fatigue",
+    "entity_name": "Injection-Day Fatigue",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Many users report lower energy 12–48h after the weekly dose; anecdotal pattern across GLP-1 forums and trial safety sections",
+    "deload_variant": "Schedule injection day as a deload day automatically every week"
+  },
+  {
+    "slug": "early-satiety-day",
+    "entity_name": "Early Satiety Day",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "A core GLP-1 effect; gastric emptying slows significantly, so small portions feel like large meals",
+    "deload_variant": "Eat protein first, before vegetables or carbs, to secure the macro target"
+  },
+  {
+    "slug": "low-appetite-morning",
+    "entity_name": "Low-Appetite Morning",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Appetite is typically lowest in the morning for GLP-1 users, especially in the first 8 weeks of escalation",
+    "deload_variant": "Skip the large breakfast and instead take a 30g whey shake mid-morning"
+  },
+  {
+    "slug": "dining-out-protein",
+    "entity_name": "Dining Out While on GLP-1",
+    "category": "SITUATION",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Restaurant portions are typically 2–3× what a GLP-1 user can comfortably eat; strategy is protein-first, take-half-home",
+    "deload_variant": "Order a starter-sized main and a side of protein (e.g. grilled prawns)"
+  },
+  {
+    "slug": "week-1-vs-week-12",
+    "entity_name": "Week 1 vs Week 12 on GLP-1",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Appetite, energy and tolerance shift significantly across the 12–20 week escalation schedule; training intensity should follow the dose, not the calendar",
+    "deload_variant": "Treat weeks 1–4 as pure habit-building, not strength-building"
+  },
+  {
+    "slug": "session-low-energy-20min",
+    "entity_name": "Low-Energy 20-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "LOW",
+    "equipment": "BOTH",
+    "summary_fact": "A composed session of 4 LOW demand_tier exercises, total time ~20 min including rests; structure derived from the EXERCISE rows in the matrix",
+    "deload_variant": "Drop any exercise that feels off; the goal is attendance, not completion"
+  },
+  {
+    "slug": "session-moderate-30min",
+    "entity_name": "Moderate 30-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "MODERATE",
+    "equipment": "BOTH",
+    "summary_fact": "A composed session of 2 MODERATE + 2 LOW demand_tier exercises, ~30 min; selection algorithm picks from the EXERCISE rows by demand_tier",
+    "deload_variant": "Drop the MODERATE exercises to their deload variants if energy dips mid-session"
+  },
+  {
+    "slug": "session-high-energy-40min",
+    "entity_name": "High-Energy 40-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "HIGH",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "A composed session of 4 MODERATE exercises, ~40 min; only scheduled on days the user logs HIGH energy for two consecutive mornings",
+    "deload_variant": "Automatically downgrade to the Moderate session if morning energy log is LOW"
+  },
+  {
+    "slug": "session-deload-week",
+    "entity_name": "Deload Week Plan",
+    "category": "SESSION",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "A structured week of LOW demand_tier sessions only, 4 days, ~20 min each; every exercise uses its deload_variant; explicitly framed as part of the program, not a failure",
+    "deload_variant": "If any session still feels too much, drop to just walking"
+  },
+  {
+    "slug": "semaglutide-wegovy",
+    "entity_name": "Semaglutide (Wegovy/Ozempic)",
+    "category": "MEDICATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Weekly subcutaneous GLP-1 receptor agonist; typical 12–20 week escalation from 0.25 mg to 2.4 mg for Wegovy",
+    "deload_variant": "Plan training intensity to match the escalation week, not the calendar week"
+  },
+  {
+    "slug": "tirzepatide-zepbound",
+    "entity_name": "Tirzepatide (Zepbound/Mounjaro)",
+    "category": "MEDICATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Weekly subcutaneous dual GIP/GLP-1 receptor agonist; typical 12–20 week escalation from 2.5 mg to 15 mg for Zepbound",
+    "deload_variant": "Same escalation-matched training approach as semaglutide; GI side-effect profile is similar"
+  },
+  {
+    "slug": "deload-term",
+    "entity_name": "Deload",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "A planned reduction in training volume or intensity, usually lasting one week; explicitly normalised here as a weekly feature, not a failure event",
+    "deload_variant": "None — the deload is the plan"
+  },
+  {
+    "slug": "muscle-preservation-term",
+    "entity_name": "Muscle Preservation",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "The goal of training while in a caloric deficit on GLP-1; loss of lean mass accounts for ~30–40% of weight lost in GLP-1 trials without resistance training",
+    "deload_variant": "None — this is the goal, not an exercise"
+  },
+  {
+    "slug": "early-satiety-term",
+    "entity_name": "Early Satiety",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "The physiological sensation of fullness after a smaller-than-usual amount of food; a direct effect of slowed gastric emptying from GLP-1 receptor agonists",
+    "deload_variant": "None — this is the symptom, not an intervention"
+  },
+  {
+    "slug": "glp-1-agonist-term",
+    "entity_name": "GLP-1 Receptor Agonist",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "A class of medication that mimics the incretin hormone GLP-1; originally for type 2 diabetes, now licensed for chronic weight management",
+    "deload_variant": "None — this is the medication class, not an intervention"
+  },
+  {
+    "slug": "protein-per-kcal",
+    "entity_name": "Protein Per 100 kcal",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "A ranking metric derived by dividing grams of protein by the calorie content of a food per 100 kcal; higher values indicate more protein for less appetite budget",
+    "deload_variant": "None — this is a ranking metric, not a food"
+  },
+  {
+    "slug": "romanian-deadlift-light",
+    "entity_name": "Light Dumbbell Romanian Deadlift",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "Hip hinge holding light dumbbells in front of thighs; 3×10 typical.",
+    "deload_variant": "Drop the weights and perform an unweighted hip hinge to a chair."
+  },
+  {
+    "slug": "floor-chest-fly",
+    "entity_name": "Floor Chest Fly",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "Chest isolation lying on the floor to protect shoulders; 3×10.",
+    "deload_variant": "Switch to a standing band chest press."
+  },
+  {
+    "slug": "side-plank-knees",
+    "entity_name": "Side Plank on Knees",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Lateral core stabiliser; 3×15s per side.",
+    "deload_variant": "Drop to a standing side bend holding a light weight."
+  },
+  {
+    "slug": "seated-bicep-curl",
+    "entity_name": "Seated Bicep Curl",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "Arm flexion from a seated position to prevent swinging; 3×10.",
+    "deload_variant": "Use a lighter resistance band instead of dumbbells."
+  },
+  {
+    "slug": "wall-sit",
+    "entity_name": "Wall Sit",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Isometric leg endurance against a wall; 3×20s.",
+    "deload_variant": "Slide higher up the wall to reduce the knee bend."
+  },
+  {
+    "slug": "chair-dip",
+    "entity_name": "Chair Dip",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "Tricep extension using a sturdy chair; 3×8.",
+    "deload_variant": "Reduce the range of motion to just a 5cm bend."
+  },
+  {
+    "slug": "shrimp-cooked",
+    "entity_name": "Shrimp, Cooked",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Extremely lean protein with almost no fat; ~20g protein per 100 kcal.",
+    "deload_variant": "A small 50g portion as a snack."
+  },
+  {
+    "slug": "turkey-breast-deli",
+    "entity_name": "Deli Turkey Breast, Low Sodium",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Convenient lean protein; ~18g protein per 100 kcal.",
+    "deload_variant": "Roll up 3 slices for a fast, zero-prep snack."
+  },
+  {
+    "slug": "hemp-seeds",
+    "entity_name": "Hemp Seeds, Shelled",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Plant protein with omega-3s; ~31g protein per 100g (but calorie dense).",
+    "deload_variant": "Sprinkle 1 tablespoon over yogurt rather than eating a handful."
+  },
+  {
+    "slug": "chia-seeds",
+    "entity_name": "Chia Seeds, Dry",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Fibre and protein that expand in liquid; ~16g protein per 100g.",
+    "deload_variant": "Soak 1 tablespoon in water or almond milk to make a small pudding."
+  },
+  {
+    "slug": "nutritional-yeast",
+    "entity_name": "Nutritional Yeast",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Cheesy-tasting plant protein and B-vitamin source; ~50g protein per 100g.",
+    "deload_variant": "Sprinkle 1 tablespoon over vegetables or eggs."
+  },
+  {
+    "slug": "black-beans-canned",
+    "entity_name": "Canned Black Beans, Rinsed",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Plant protein plus high fibre; ~8g protein per 100 kcal.",
+    "deload_variant": "A small 60g side portion to add bulk to a meal."
+  },
+  {
+    "slug": "constipation-day",
+    "entity_name": "Constipation Day",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Very common on GLP-1s due to slowed gastric emptying; requires hydration and fibre.",
+    "deload_variant": "Skip heavy core exercises; do a 20-minute brisk walk and drink 2L of water."
+  },
+  {
+    "slug": "travel-day",
+    "entity_name": "Travel Day",
+    "category": "SITUATION",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Sitting for long periods increases stiffness and DVT risk; requires mobility.",
+    "deload_variant": "Do ankle pumps and calf raises in your seat every hour."
+  },
+  {
+    "slug": "sleep-deprived-morning",
+    "entity_name": "Sleep-Deprived Morning",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Poor sleep increases injury risk and reduces glucose tolerance; requires caution.",
+    "deload_variant": "Downgrade to the Low-Energy 20-Minute Session; skip heavy leg work."
+  },
+  {
+    "slug": "hot-weather-day",
+    "entity_name": "Hot Weather Day",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "GLP-1 users may have altered thirst cues; heat increases dehydration risk.",
+    "deload_variant": "Train in a cool room or early morning; drink water before you feel thirsty."
+  },
+  {
+    "slug": "stressful-work-day",
+    "entity_name": "Stressful Work Day",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "High mental fatigue feels like physical fatigue; requires a mental break, not a hard workout.",
+    "deload_variant": "Do 10 minutes of deep breathing and the Bird-Dog exercise to reset."
+  },
+  {
+    "slug": "cold-flu-day",
+    "entity_name": "Cold or Flu Day",
+    "category": "SITUATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Training with a fever or chest infection is dangerous; requires complete rest.",
+    "deload_variant": "Zero training. Focus on hydration and sleep until fever is gone for 24h."
+  },
+  {
+    "slug": "session-upper-30min",
+    "entity_name": "Upper Body Focus 30-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "MODERATE",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "A composed session of 4 upper-body exercises; ~30 min.",
+    "deload_variant": "Drop to wall push-ups and band pull-aparts if energy is low."
+  },
+  {
+    "slug": "session-lower-30min",
+    "entity_name": "Lower Body Focus 30-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "MODERATE",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "A composed session of 4 lower-body exercises; ~30 min.",
+    "deload_variant": "Drop to chair sits and calf raises if knees feel stiff."
+  },
+  {
+    "slug": "session-core-mobility-20min",
+    "entity_name": "Core and Mobility 20-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "LOW",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "A composed session of floor core work and gentle stretching; ~20 min.",
+    "deload_variant": "Skip any stretch that causes sharp pain; only go to mild tension."
+  },
+  {
+    "slug": "session-hotel-room-20min",
+    "entity_name": "Hotel Room 20-Minute Session",
+    "category": "SESSION",
+    "demand_tier": "MODERATE",
+    "equipment": "BODYWEIGHT",
+    "summary_fact": "A composed session of 4 bodyweight exercises needing zero equipment; ~20 min.",
+    "deload_variant": "Reduce the range of motion on all exercises if the room is cramped."
+  },
+  {
+    "slug": "liraglutide-saxenda",
+    "entity_name": "Liraglutide (Saxenda)",
+    "category": "MEDICATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Daily subcutaneous GLP-1 receptor agonist; escalated to 3.0 mg daily.",
+    "deload_variant": "Because it is daily, there is no single 'injection day fatigue' spike."
+  },
+  {
+    "slug": "oral-semaglutide-rybelsus",
+    "entity_name": "Oral Semaglutide (Rybelsus)",
+    "category": "MEDICATION",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Daily oral GLP-1 receptor agonist; must be taken on an empty stomach with plain water.",
+    "deload_variant": "Take it immediately upon waking, wait 30 mins before training or eating."
+  },
+  {
+    "slug": "rir-term",
+    "entity_name": "RIR (Reps in Reserve)",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "How many more reps you could have done before failure; 2 RIR means you stopped with 2 left in the tank.",
+    "deload_variant": "None — this is a measurement tool."
+  },
+  {
+    "slug": "progressive-overload-term",
+    "entity_name": "Progressive Overload",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Gradually increasing the challenge to the muscles over time to force adaptation.",
+    "deload_variant": "None — this is a programming principle."
+  },
+  {
+    "slug": "titration-term",
+    "entity_name": "Titration",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "The process of slowly increasing a medication dose over weeks to minimise side effects.",
+    "deload_variant": "None — this is a medical process."
+  },
+  {
+    "slug": "lean-mass-term",
+    "entity_name": "Lean Mass",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "The weight of everything in your body except fat (muscle, bone, water, organs).",
+    "deload_variant": "None — this is a body composition metric."
+  },
+  {
+    "slug": "seated-leg-extension-band",
+    "entity_name": "Seated Banded Leg Extension",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BOTH",
+    "summary_fact": "Quad isolation seated in a chair with a resistance band; 3×12.",
+    "deload_variant": "Remove the band and just do the movement with bodyweight."
+  },
+  {
+    "slug": "shoulder-shrug-light",
+    "entity_name": "Light Dumbbell Shoulder Shrug",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "LIGHT_DUMBBELLS",
+    "summary_fact": "Upper trapezius activation holding light weights; 3×15.",
+    "deload_variant": "Drop the weights and shrug with just bodyweight."
+  },
+  {
+    "slug": "reverse-fly-band",
+    "entity_name": "Standing Band Reverse Fly",
+    "category": "EXERCISE",
+    "demand_tier": "LOW",
+    "equipment": "BOTH",
+    "summary_fact": "Upper back and posture correction using a band; 3×12.",
+    "deload_variant": "Use a lighter band or reduce the range of motion."
+  },
+  {
+    "slug": "standing-hamstring-curl-band",
+    "entity_name": "Standing Banded Hamstring Curl",
+    "category": "EXERCISE",
+    "demand_tier": "MODERATE",
+    "equipment": "BOTH",
+    "summary_fact": "Hamstring isolation standing with a band looped around the ankle; 3×12 per leg.",
+    "deload_variant": "Reduce the range of motion to just a small kick back."
+  },
+  {
+    "slug": "seitan",
+    "entity_name": "Seitan, Cooked",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Extremely dense plant protein; ~25g protein per 100 kcal.",
+    "deload_variant": "Cube 40g into a stir-fry."
+  },
+  {
+    "slug": "pumpkin-seeds",
+    "entity_name": "Pumpkin Seeds, Shelled",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Plant protein with magnesium and zinc; ~30g protein per 100g.",
+    "deload_variant": "Sprinkle 1 tablespoon over a salad."
+  },
+  {
+    "slug": "almonds-raw",
+    "entity_name": "Raw Almonds",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Crunchy plant protein with healthy fats; ~21g protein per 100g.",
+    "deload_variant": "Count out exactly 12 almonds for a controlled snack."
+  },
+  {
+    "slug": "peanut-butter-powder",
+    "entity_name": "Peanut Butter Powder",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Peanut flavour with most of the fat removed; ~50g protein per 100g.",
+    "deload_variant": "Mix 2 tablespoons with water to make a low-calorie paste."
+  },
+  {
+    "slug": "salmon-baked",
+    "entity_name": "Baked Salmon Fillet",
+    "category": "FOOD",
+    "demand_tier": "MODERATE",
+    "equipment": "NONE",
+    "summary_fact": "Protein plus high omega-3s for joint and heart health; ~20g protein per 100g.",
+    "deload_variant": "A small 80g portion as a main meal."
+  },
+  {
+    "slug": "protein-bar-low-sugar",
+    "entity_name": "Low-Sugar Protein Bar",
+    "category": "FOOD",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "Convenient emergency protein; typically 20g protein for ~200 kcal.",
+    "deload_variant": "Keep one in your bag for days when you cannot prepare food."
+  },
+  {
+    "slug": "metabolic-adaptation-term",
+    "entity_name": "Metabolic Adaptation",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "The body's process of slowing down calorie burn in response to prolonged dieting.",
+    "deload_variant": "None — this is a physiological process."
+  },
+  {
+    "slug": "sarcopenia-term",
+    "entity_name": "Sarcopenia",
+    "category": "GLOSSARY",
+    "demand_tier": "LOW",
+    "equipment": "NONE",
+    "summary_fact": "The involuntary loss of skeletal muscle mass and strength, common in adults over 50.",
+    "deload_variant": "None — this is a medical condition."
+  }
+]

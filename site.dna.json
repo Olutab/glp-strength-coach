@@ -1,0 +1,15 @@
+{
+  "siteName": "GLP-1 Strength Coach",
+  "palette": {
+    "bg": "#FAF6EF",
+    "surface": "#F0E9DC",
+    "ink": "#23201A",
+    "accent": "#2F6B4F",
+    "warning": "#9A3412"
+  },
+  "fonts": {
+    "display": "Fraunces",
+    "body": "Source Sans 3"
+  },
+  "style": "Warm paper/serif editorial"
+}

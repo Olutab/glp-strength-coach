@@ -1,0 +1,1300 @@
+{
+  "images": {
+    "goblet-squat": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/goblet-squat-480.webp",
+        "800": "/images/goblet-squat-800.webp",
+        "1280": "/images/goblet-squat-1280.webp"
+      },
+      "width": 1280,
+      "height": 835,
+      "artist": "Alvinategyeka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Barbell_and_Dumbbells_in_a_local_health_club.jpg",
+      "alt": "Reference photo for Goblet Squat, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "wall-pushup": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/wall-pushup-480.webp",
+        "800": "/images/wall-pushup-800.webp",
+        "1280": "/images/wall-pushup-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "mckaysavage",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Bali_015_-_Ubud_-_yoga_mats_for_sale.jpg",
+      "alt": "Reference photo for Wall Push-Up, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "bodyweight-row": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/bodyweight-row-480.webp",
+        "800": "/images/bodyweight-row-800.webp",
+        "1280": "/images/bodyweight-row-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Inverted Row, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "bird-dog": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/bird-dog-480.webp",
+        "800": "/images/bird-dog-800.webp",
+        "1280": "/images/bird-dog-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "F ASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Gaim_Yoga_Mat_1_2019-05-15.jpg",
+      "alt": "Reference photo for Bird-Dog, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "glute-bridge": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/glute-bridge-480.webp",
+        "800": "/images/glute-bridge-800.webp",
+        "1280": "/images/glute-bridge-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Peacelovetomare",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Tomare_Yoga_Mats.JPG",
+      "alt": "Reference photo for Glute Bridge, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "seated-shoulder-press": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/seated-shoulder-press-480.webp",
+        "800": "/images/seated-shoulder-press-800.webp",
+        "1280": "/images/seated-shoulder-press-1280.webp"
+      },
+      "width": 1280,
+      "height": 961,
+      "artist": "Santeri Viinamäki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_on_rack_20180112.jpg",
+      "alt": "Reference photo for Seated Dumbbell Shoulder Press, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "step-up": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/step-up-480.webp",
+        "800": "/images/step-up-800.webp",
+        "1280": "/images/step-up-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "mckaysavage",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Bali_015_-_Ubud_-_yoga_mats_for_sale.jpg",
+      "alt": "Reference photo for Step-Up, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "dead-bug": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/dead-bug-480.webp",
+        "800": "/images/dead-bug-800.webp",
+        "1280": "/images/dead-bug-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Dead Bug, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "calf-raise": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/calf-raise-480.webp",
+        "800": "/images/calf-raise-800.webp",
+        "1280": "/images/calf-raise-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Standing Calf Raise, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "reverse-lunge": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/reverse-lunge-480.webp",
+        "800": "/images/reverse-lunge-800.webp",
+        "1280": "/images/reverse-lunge-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "mckaysavage",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Bali_015_-_Ubud_-_yoga_mats_for_sale.jpg",
+      "alt": "Reference photo for Reverse Lunge, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "plank-on-knees": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/plank-on-knees-480.webp",
+        "800": "/images/plank-on-knees-800.webp",
+        "1280": "/images/plank-on-knees-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Peacelovetomare",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Tomare_Yoga_Mats.JPG",
+      "alt": "Reference photo for Kneeling Plank, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "band-pull-apart": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/band-pull-apart-480.webp",
+        "800": "/images/band-pull-apart-800.webp",
+        "1280": "/images/band-pull-apart-1280.webp"
+      },
+      "width": 1280,
+      "height": 652,
+      "artist": "Corn cheese",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Black_damaged_resistance_band.jpg",
+      "alt": "Reference photo for Band Pull-Apart, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "greek-yogurt": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/greek-yogurt-480.webp",
+        "800": "/images/greek-yogurt-800.webp",
+        "1280": "/images/greek-yogurt-1280.webp"
+      },
+      "width": 1280,
+      "height": 720,
+      "artist": "ProjectManhattan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Fresh_greek_yoghurt.jpg",
+      "alt": "Reference photo for Greek Yogurt, Plain Non-Fat, a food entry in the GLP-1 Strength Coach library."
+    },
+    "cottage-cheese": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/cottage-cheese-480.webp",
+        "800": "/images/cottage-cheese-800.webp",
+        "1280": "/images/cottage-cheese-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Shadle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Cottage_Cheese_homemade.jpg",
+      "alt": "Reference photo for Cottage Cheese, Low-Fat, a food entry in the GLP-1 Strength Coach library."
+    },
+    "canned-tuna": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/canned-tuna-480.webp",
+        "800": "/images/canned-tuna-800.webp",
+        "1280": "/images/canned-tuna-1280.webp"
+      },
+      "width": 1280,
+      "height": 964,
+      "artist": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms. More of my work can be found in my personal gallery .",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Tuna_can.jpg",
+      "alt": "Reference photo for Canned Tuna in Water, Drained, a food entry in the GLP-1 Strength Coach library."
+    },
+    "chicken-breast": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/chicken-breast-480.webp",
+        "800": "/images/chicken-breast-800.webp",
+        "1280": "/images/chicken-breast-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Yotam Nachum",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Cafe_Caramel_Chicken_breast_and_French_Fries.jpg",
+      "alt": "Reference photo for Cooked Skinless Chicken Breast, a food entry in the GLP-1 Strength Coach library."
+    },
+    "edamame": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/edamame-480.webp",
+        "800": "/images/edamame-800.webp"
+      },
+      "width": 800,
+      "height": 600,
+      "artist": "Jiafei Slay Queen",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Edamame_in_a_tray.jpg",
+      "alt": "Reference photo for Edamame, Shelled and Cooked, a food entry in the GLP-1 Strength Coach library."
+    },
+    "tempeh": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/tempeh-480.webp",
+        "800": "/images/tempeh-800.webp"
+      },
+      "width": 800,
+      "height": 553,
+      "artist": "FotoosVanRobin from Netherlands",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Sliced_tempeh.jpg",
+      "alt": "Reference photo for Tempeh, Cooked, a food entry in the GLP-1 Strength Coach library."
+    },
+    "lentils-cooked": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/lentils-cooked-480.webp",
+        "800": "/images/lentils-cooked-800.webp",
+        "1280": "/images/lentils-cooked-1280.webp"
+      },
+      "width": 1280,
+      "height": 689,
+      "artist": "Tiia Monto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Red_lentils_Gogreen.jpg",
+      "alt": "Reference photo for Lentils, Cooked, a food entry in the GLP-1 Strength Coach library."
+    },
+    "tofu-firm": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/tofu-firm-480.webp",
+        "800": "/images/tofu-firm-800.webp",
+        "1280": "/images/tofu-firm-1280.webp"
+      },
+      "width": 1280,
+      "height": 511,
+      "artist": "NeoBatfreak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Fried_Tofu_(%E7%82%B8%E8%B1%86%E8%85%90).jpg",
+      "alt": "Reference photo for Firm Tofu, Raw, a food entry in the GLP-1 Strength Coach library."
+    },
+    "sardines-canned": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/sardines-canned-480.webp",
+        "800": "/images/sardines-canned-800.webp",
+        "1280": "/images/sardines-canned-1280.webp"
+      },
+      "width": 1280,
+      "height": 939,
+      "artist": "Rl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:2006_sardines_can.jpg",
+      "alt": "Reference photo for Sardines Canned in Water, a food entry in the GLP-1 Strength Coach library."
+    },
+    "whey-protein": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/whey-protein-480.webp",
+        "800": "/images/whey-protein-800.webp",
+        "1280": "/images/whey-protein-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Ganesh Mohan T",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Optimus_nutrition_gold_standard_whey_protein_with_creatine_monohydrate.jpg",
+      "alt": "Reference photo for Whey Protein Isolate, Plain, a food entry in the GLP-1 Strength Coach library."
+    },
+    "eggs-whole": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/eggs-whole-480.webp",
+        "800": "/images/eggs-whole-800.webp",
+        "1280": "/images/eggs-whole-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Ravi Dwivedi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Rice_and_Boiled_Eggs_at_a_shop_at_platform_6_in_Mughalsarai_Junction.jpg",
+      "alt": "Reference photo for Whole Egg, Boiled, a food entry in the GLP-1 Strength Coach library."
+    },
+    "nausea-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/nausea-day-480.webp",
+        "800": "/images/nausea-day-800.webp",
+        "1280": "/images/nausea-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 848,
+      "artist": "Erasmus Kamugisha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:A_boiled_Lemon_and_ginger_tea.jpg",
+      "alt": "Reference photo for Nausea Day Playbook, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "injection-day-fatigue": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/injection-day-fatigue-480.webp",
+        "800": "/images/injection-day-fatigue-800.webp"
+      },
+      "width": 800,
+      "height": 579,
+      "artist": "Mervin Simpao",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Weekly-planners-printable-planners.jpg",
+      "alt": "Reference photo for Injection-Day Fatigue, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "early-satiety-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/early-satiety-day-480.webp",
+        "800": "/images/early-satiety-day-800.webp",
+        "1280": "/images/early-satiety-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 957,
+      "artist": "William de Wiveleslie Abney",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:The_Interior_of_the_Small_Temple_(Thebes_and_its_five_greater_temples_-_plate_5).jpg",
+      "alt": "Reference photo for Early Satiety Day, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "low-appetite-morning": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/low-appetite-morning-480.webp",
+        "800": "/images/low-appetite-morning-800.webp",
+        "1280": "/images/low-appetite-morning-1280.webp"
+      },
+      "width": 1280,
+      "height": 1024,
+      "artist": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Cream_and_red_coffee_cup-shaped_balconies,_Niimi_Tableware,_Kappabashi_Dougu_Street,_Tokyo,_Japan.jpg",
+      "alt": "Reference photo for Low-Appetite Morning, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "dining-out-protein": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/dining-out-protein-480.webp",
+        "800": "/images/dining-out-protein-800.webp",
+        "1280": "/images/dining-out-protein-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Mbrickn",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:American_Table_Restaurant.jpg",
+      "alt": "Reference photo for Dining Out While on GLP-1, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "week-1-vs-week-12": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/week-1-vs-week-12-480.webp",
+        "800": "/images/week-1-vs-week-12-800.webp",
+        "1280": "/images/week-1-vs-week-12-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "Maximopi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Close-up_of_calendar_in_Spanish_-_Calendario_en_espa%C3%B1ol.jpg",
+      "alt": "Reference photo for Week 1 vs Week 12 on GLP-1, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "session-low-energy-20min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-low-energy-20min-480.webp",
+        "800": "/images/session-low-energy-20min-800.webp",
+        "1280": "/images/session-low-energy-20min-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Low-Energy 20-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "session-moderate-30min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-moderate-30min-480.webp",
+        "800": "/images/session-moderate-30min-800.webp",
+        "1280": "/images/session-moderate-30min-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "mckaysavage",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Bali_015_-_Ubud_-_yoga_mats_for_sale.jpg",
+      "alt": "Reference photo for Moderate 30-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "session-high-energy-40min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-high-energy-40min-480.webp",
+        "800": "/images/session-high-energy-40min-800.webp",
+        "1280": "/images/session-high-energy-40min-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for High-Energy 40-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "session-deload-week": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-deload-week-480.webp",
+        "800": "/images/session-deload-week-800.webp",
+        "1280": "/images/session-deload-week-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Peacelovetomare",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Tomare_Yoga_Mats.JPG",
+      "alt": "Reference photo for Deload Week Plan, a session entry in the GLP-1 Strength Coach library."
+    },
+    "semaglutide-wegovy": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/semaglutide-wegovy.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Semaglutide (Wegovy/Ozempic) page, drawn in the site style."
+    },
+    "tirzepatide-zepbound": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/tirzepatide-zepbound.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Tirzepatide (Zepbound/Mounjaro) page, drawn in the site style."
+    },
+    "deload-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/deload-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Deload page, drawn in the site style."
+    },
+    "muscle-preservation-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/muscle-preservation-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Muscle Preservation page, drawn in the site style."
+    },
+    "early-satiety-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/early-satiety-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Early Satiety page, drawn in the site style."
+    },
+    "glp-1-agonist-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/glp-1-agonist-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the GLP-1 Receptor Agonist page, drawn in the site style."
+    },
+    "protein-per-kcal": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/protein-per-kcal.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Protein Per 100 kcal page, drawn in the site style."
+    },
+    "romanian-deadlift-light": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/romanian-deadlift-light-480.webp",
+        "800": "/images/romanian-deadlift-light-800.webp",
+        "1280": "/images/romanian-deadlift-light-1280.webp"
+      },
+      "width": 1280,
+      "height": 835,
+      "artist": "Alvinategyeka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Barbell_and_Dumbbells_in_a_local_health_club.jpg",
+      "alt": "Reference photo for Light Dumbbell Romanian Deadlift, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "floor-chest-fly": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/floor-chest-fly-480.webp",
+        "800": "/images/floor-chest-fly-800.webp",
+        "1280": "/images/floor-chest-fly-1280.webp"
+      },
+      "width": 1280,
+      "height": 759,
+      "artist": "Alvinategyeka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_in_a_local_Gym.jpg",
+      "alt": "Reference photo for Floor Chest Fly, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "side-plank-knees": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/side-plank-knees-480.webp",
+        "800": "/images/side-plank-knees-800.webp",
+        "1280": "/images/side-plank-knees-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Side Plank on Knees, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "seated-bicep-curl": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/seated-bicep-curl-480.webp",
+        "800": "/images/seated-bicep-curl-800.webp",
+        "1280": "/images/seated-bicep-curl-1280.webp"
+      },
+      "width": 1280,
+      "height": 961,
+      "artist": "Santeri Viinamäki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_on_rack_20180112.jpg",
+      "alt": "Reference photo for Seated Bicep Curl, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "wall-sit": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/wall-sit-480.webp",
+        "800": "/images/wall-sit-800.webp",
+        "1280": "/images/wall-sit-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Wall Sit, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "chair-dip": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/chair-dip-480.webp",
+        "800": "/images/chair-dip-800.webp",
+        "1280": "/images/chair-dip-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Peacelovetomare",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Tomare_Yoga_Mats.JPG",
+      "alt": "Reference photo for Chair Dip, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "shrimp-cooked": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/shrimp-cooked-480.webp",
+        "800": "/images/shrimp-cooked-800.webp",
+        "1280": "/images/shrimp-cooked-1280.webp"
+      },
+      "width": 1280,
+      "height": 847,
+      "artist": "Wiki.cullin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Game_Meat_-_Prawns_-_Calamari_-_Frites_-_on_a_white_plate.jpg",
+      "alt": "Reference photo for Shrimp, Cooked, a food entry in the GLP-1 Strength Coach library."
+    },
+    "turkey-breast-deli": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/turkey-breast-deli-480.webp",
+        "800": "/images/turkey-breast-deli-800.webp",
+        "1280": "/images/turkey-breast-deli-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Missvain",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Cooked_turkey_breast_-_November_2023_-_Sarah_Stierch.jpg",
+      "alt": "Reference photo for Deli Turkey Breast, Low Sodium, a food entry in the GLP-1 Strength Coach library."
+    },
+    "hemp-seeds": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/hemp-seeds-480.webp",
+        "800": "/images/hemp-seeds-800.webp",
+        "1280": "/images/hemp-seeds-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "D-Kuru",
+      "license": "CC BY-SA 3.0 at",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Hemp_bunch-dried_out_-seeds_close_up_PNr%C2%B00063.jpg",
+      "alt": "Reference photo for Hemp Seeds, Shelled, a food entry in the GLP-1 Strength Coach library."
+    },
+    "chia-seeds": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/chia-seeds-480.webp",
+        "800": "/images/chia-seeds-800.webp",
+        "1280": "/images/chia-seeds-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "Keegan Fields",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Seed_of_chia_(Salvia_hispanica)Salvia_hispanica_group.jpg",
+      "alt": "Reference photo for Chia Seeds, Dry, a food entry in the GLP-1 Strength Coach library."
+    },
+    "nutritional-yeast": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/nutritional-yeast-480.webp",
+        "800": "/images/nutritional-yeast-800.webp",
+        "1280": "/images/nutritional-yeast-1280.webp"
+      },
+      "width": 1280,
+      "height": 854,
+      "artist": "Tony Webster from Minneapolis, Minnesota, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Nutritional_Yeast_in_Bag_(32664238868).jpg",
+      "alt": "Reference photo for Nutritional Yeast, a food entry in the GLP-1 Strength Coach library."
+    },
+    "black-beans-canned": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/black-beans-canned-480.webp",
+        "800": "/images/black-beans-canned-800.webp",
+        "1280": "/images/black-beans-canned-1280.webp"
+      },
+      "width": 1280,
+      "height": 753,
+      "artist": "Wilfredor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Black_Beans_2.JPG",
+      "alt": "Reference photo for Canned Black Beans, Rinsed, a food entry in the GLP-1 Strength Coach library."
+    },
+    "constipation-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/constipation-day-480.webp",
+        "800": "/images/constipation-day-800.webp",
+        "1280": "/images/constipation-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 1117,
+      "artist": "Dr Jean Fortunet",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+      "alt": "Reference photo for Constipation Day, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "travel-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/travel-day-480.webp",
+        "800": "/images/travel-day-800.webp",
+        "1280": "/images/travel-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 886,
+      "artist": "Sandrine Z",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Belber_Striped_Suitcase.jpg",
+      "alt": "Reference photo for Travel Day, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "sleep-deprived-morning": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/sleep-deprived-morning-480.webp",
+        "800": "/images/sleep-deprived-morning-800.webp",
+        "1280": "/images/sleep-deprived-morning-1280.webp"
+      },
+      "width": 1280,
+      "height": 1070,
+      "artist": "Morn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Digital_alarm_clock_(TFA_Dostmann).jpg",
+      "alt": "Reference photo for Sleep-Deprived Morning, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "hot-weather-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/hot-weather-day-480.webp",
+        "800": "/images/hot-weather-day-800.webp",
+        "1280": "/images/hot-weather-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "Photos-public-domain.com",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Water_droplets_on_blue_glass_surface.jpg",
+      "alt": "Reference photo for Hot Weather Day, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "stressful-work-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/stressful-work-day-480.webp",
+        "800": "/images/stressful-work-day-800.webp",
+        "1280": "/images/stressful-work-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Douglas P Perkins",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:White_cup_filled_with_coffee.jpg",
+      "alt": "Reference photo for Stressful Work Day, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "cold-flu-day": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/cold-flu-day-480.webp",
+        "800": "/images/cold-flu-day-800.webp",
+        "1280": "/images/cold-flu-day-1280.webp"
+      },
+      "width": 1280,
+      "height": 721,
+      "artist": "E. Deldin/National Park Service",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Furnace_Creek_Visitor_Center_park_rangers_digitial_thermometer_sign_20_July_2020.png",
+      "alt": "Reference photo for Cold or Flu Day, a situation entry in the GLP-1 Strength Coach library."
+    },
+    "session-upper-30min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-upper-30min-480.webp",
+        "800": "/images/session-upper-30min-800.webp",
+        "1280": "/images/session-upper-30min-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Peacelovetomare",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Tomare_Yoga_Mats.JPG",
+      "alt": "Reference photo for Upper Body Focus 30-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "session-lower-30min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-lower-30min-480.webp",
+        "800": "/images/session-lower-30min-800.webp",
+        "1280": "/images/session-lower-30min-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "F ASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Gaim_Yoga_Mat_1_2019-05-15.jpg",
+      "alt": "Reference photo for Lower Body Focus 30-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "session-core-mobility-20min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-core-mobility-20min-480.webp",
+        "800": "/images/session-core-mobility-20min-800.webp",
+        "1280": "/images/session-core-mobility-20min-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Gausanchennai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
+      "alt": "Reference photo for Core and Mobility 20-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "session-hotel-room-20min": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/session-hotel-room-20min-480.webp",
+        "800": "/images/session-hotel-room-20min-800.webp",
+        "1280": "/images/session-hotel-room-20min-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "mckaysavage",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Bali_015_-_Ubud_-_yoga_mats_for_sale.jpg",
+      "alt": "Reference photo for Hotel Room 20-Minute Session, a session entry in the GLP-1 Strength Coach library."
+    },
+    "liraglutide-saxenda": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/liraglutide-saxenda.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Liraglutide (Saxenda) page, drawn in the site style."
+    },
+    "oral-semaglutide-rybelsus": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/oral-semaglutide-rybelsus.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Oral Semaglutide (Rybelsus) page, drawn in the site style."
+    },
+    "rir-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/rir-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the RIR (Reps in Reserve) page, drawn in the site style."
+    },
+    "progressive-overload-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/progressive-overload-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Progressive Overload page, drawn in the site style."
+    },
+    "titration-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/titration-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Titration page, drawn in the site style."
+    },
+    "lean-mass-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/lean-mass-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Lean Mass page, drawn in the site style."
+    },
+    "seated-leg-extension-band": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/seated-leg-extension-band-480.webp",
+        "800": "/images/seated-leg-extension-band-800.webp",
+        "1280": "/images/seated-leg-extension-band-1280.webp"
+      },
+      "width": 1280,
+      "height": 432,
+      "artist": "Corn cheese",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Resistance_band.jpg",
+      "alt": "Reference photo for Seated Banded Leg Extension, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "shoulder-shrug-light": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/shoulder-shrug-light-480.webp",
+        "800": "/images/shoulder-shrug-light-800.webp",
+        "1280": "/images/shoulder-shrug-light-1280.webp"
+      },
+      "width": 1280,
+      "height": 893,
+      "artist": "Alvinategyeka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_in_a_local_health_club.jpg",
+      "alt": "Reference photo for Light Dumbbell Shoulder Shrug, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "reverse-fly-band": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/reverse-fly-band-480.webp",
+        "800": "/images/reverse-fly-band-800.webp",
+        "1280": "/images/reverse-fly-band-1280.webp"
+      },
+      "width": 1280,
+      "height": 652,
+      "artist": "Corn cheese",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Black_damaged_resistance_band.jpg",
+      "alt": "Reference photo for Standing Band Reverse Fly, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "standing-hamstring-curl-band": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/standing-hamstring-curl-band-480.webp",
+        "800": "/images/standing-hamstring-curl-band-800.webp",
+        "1280": "/images/standing-hamstring-curl-band-1280.webp"
+      },
+      "width": 1280,
+      "height": 432,
+      "artist": "Corn cheese",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Resistance_band.jpg",
+      "alt": "Reference photo for Standing Banded Hamstring Curl, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "seitan": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/seitan-480.webp",
+        "800": "/images/seitan-800.webp",
+        "1280": "/images/seitan-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "nclm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Seitan_slices_1.jpg",
+      "alt": "Reference photo for Seitan, Cooked, a food entry in the GLP-1 Strength Coach library."
+    },
+    "almonds-raw": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/almonds-raw-480.webp",
+        "800": "/images/almonds-raw-800.webp",
+        "1280": "/images/almonds-raw-1280.webp"
+      },
+      "width": 1280,
+      "height": 960,
+      "artist": "Loadmaster (David R. Tribble",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Almonds_1.jpg",
+      "alt": "Reference photo for Raw Almonds, a food entry in the GLP-1 Strength Coach library."
+    },
+    "metabolic-adaptation-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/metabolic-adaptation-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Metabolic Adaptation page, drawn in the site style."
+    },
+    "sarcopenia-term": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/sarcopenia-term.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Sarcopenia page, drawn in the site style."
+    },
+    "pumpkin-seeds": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/pumpkin-seeds-480.webp",
+        "800": "/images/pumpkin-seeds-800.webp",
+        "1280": "/images/pumpkin-seeds-1280.webp"
+      },
+      "width": 1280,
+      "height": 853,
+      "artist": "Dmitry Makeev",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Pumpkin_seed._img_004.jpg",
+      "alt": "Reference photo for Pumpkin Seeds, Shelled, a food entry in the GLP-1 Strength Coach library."
+    },
+    "peanut-butter-powder": {
+      "kind": "svg",
+      "files": {},
+      "base": "/images/peanut-butter-powder.svg",
+      "width": 1280,
+      "height": 720,
+      "artist": "Original illustration",
+      "license": "Original work, site-owned",
+      "licenseUrl": "",
+      "source": "GLP-1 Strength Coach",
+      "originalUrl": "",
+      "alt": "Line illustration for the Peanut Butter Powder page, drawn in the site style."
+    },
+    "salmon-baked": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/salmon-baked-480.webp",
+        "800": "/images/salmon-baked-800.webp",
+        "1280": "/images/salmon-baked-1280.webp"
+      },
+      "width": 1280,
+      "height": 993,
+      "artist": "Peter Whyte, CSIRO",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_7904_Atlantic_salmon_processing.jpg",
+      "alt": "Reference photo for Baked Salmon Fillet, a food entry in the GLP-1 Strength Coach library."
+    },
+    "protein-bar-low-sugar": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/protein-bar-low-sugar-480.webp",
+        "800": "/images/protein-bar-low-sugar-800.webp",
+        "1280": "/images/protein-bar-low-sugar-1280.webp"
+      },
+      "width": 1280,
+      "height": 534,
+      "artist": "Mx. Granger",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:STRONG_%26_KIND_Hickory_smoked_almond_protein_bar.jpg",
+      "alt": "Reference photo for Low-Sugar Protein Bar, a food entry in the GLP-1 Strength Coach library."
+    }
+  },
+  "queries_with_no_photo": [
+    "jar of peanut butter powder with a scoop"
+  ]
+}

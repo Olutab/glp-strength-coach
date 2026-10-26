@@ -1,0 +1,14 @@
+# GLP-1 Strength Coach
+
+> Adaptive, energy-aware strength training for adults over 50 on GLP-1 medications. Named deloads for low-energy days, protein targets for small appetites.
+
+## Site Structure
+- **Exercises**: Every movement here uses bodyweight or light dumbbells, and every one has a named low-energy swap. Nothing on this site is "push through it".
+- **Foods**: Protein-first foods ranked by how much protein they deliver per calorie — because on a GLP-1 your appetite budget is small.
+- **Low-Energy Days**: Playbooks for the days that do not go to plan: nausea, injection-day fatigue, poor sleep, travel, heat, illness.
+- **Sessions**: Complete sessions built by energy tier. Pick the one that matches how you actually feel this morning.
+- **Medications**: Context pages for the medications themselves — what the escalation schedule means for how you train.
+- **Glossary**: Plain-English definitions of every term used across this site, each linked to a public source.
+
+## Data Integrity
+Every data point is either linked to a public source (FDA, USDA, ACSM) or labeled as an estimate with its method stated. This site is strictly training and nutrition guidance, not medical advice.

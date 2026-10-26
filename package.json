@@ -1,0 +1,20 @@
+{
+  "name": "glp-strength-coach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "images": "node scripts/fetch-images.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "validate": "node scripts/validate.mjs",
+    "verify": "node scripts/verify-images.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
