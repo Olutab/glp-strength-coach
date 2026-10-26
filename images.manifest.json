@@ -1,22 +1,5 @@
 {
   "images": {
-    "goblet-squat": {
-      "kind": "photo",
-      "provider": "commons",
-      "files": {
-        "480": "/images/goblet-squat-480.webp",
-        "800": "/images/goblet-squat-800.webp",
-        "1280": "/images/goblet-squat-1280.webp"
-      },
-      "width": 1280,
-      "height": 835,
-      "artist": "Alvinategyeka",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "source": "Wikimedia Commons",
-      "originalUrl": "https://commons.wikimedia.org/wiki/File:Barbell_and_Dumbbells_in_a_local_health_club.jpg",
-      "alt": "Reference photo for Goblet Squat, a exercise entry in the GLP-1 Strength Coach library."
-    },
     "wall-pushup": {
       "kind": "photo",
       "provider": "commons",
@@ -84,23 +67,6 @@
       "source": "Wikimedia Commons",
       "originalUrl": "https://commons.wikimedia.org/wiki/File:Tomare_Yoga_Mats.JPG",
       "alt": "Reference photo for Glute Bridge, a exercise entry in the GLP-1 Strength Coach library."
-    },
-    "seated-shoulder-press": {
-      "kind": "photo",
-      "provider": "commons",
-      "files": {
-        "480": "/images/seated-shoulder-press-480.webp",
-        "800": "/images/seated-shoulder-press-800.webp",
-        "1280": "/images/seated-shoulder-press-1280.webp"
-      },
-      "width": 1280,
-      "height": 961,
-      "artist": "Santeri Viinamäki",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "source": "Wikimedia Commons",
-      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_on_rack_20180112.jpg",
-      "alt": "Reference photo for Seated Dumbbell Shoulder Press, a exercise entry in the GLP-1 Strength Coach library."
     },
     "step-up": {
       "kind": "photo",
@@ -649,40 +615,6 @@
       "originalUrl": "",
       "alt": "Line illustration for the Protein Per 100 kcal page, drawn in the site style."
     },
-    "romanian-deadlift-light": {
-      "kind": "photo",
-      "provider": "commons",
-      "files": {
-        "480": "/images/romanian-deadlift-light-480.webp",
-        "800": "/images/romanian-deadlift-light-800.webp",
-        "1280": "/images/romanian-deadlift-light-1280.webp"
-      },
-      "width": 1280,
-      "height": 835,
-      "artist": "Alvinategyeka",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "source": "Wikimedia Commons",
-      "originalUrl": "https://commons.wikimedia.org/wiki/File:Barbell_and_Dumbbells_in_a_local_health_club.jpg",
-      "alt": "Reference photo for Light Dumbbell Romanian Deadlift, a exercise entry in the GLP-1 Strength Coach library."
-    },
-    "floor-chest-fly": {
-      "kind": "photo",
-      "provider": "commons",
-      "files": {
-        "480": "/images/floor-chest-fly-480.webp",
-        "800": "/images/floor-chest-fly-800.webp",
-        "1280": "/images/floor-chest-fly-1280.webp"
-      },
-      "width": 1280,
-      "height": 759,
-      "artist": "Alvinategyeka",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "source": "Wikimedia Commons",
-      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_in_a_local_Gym.jpg",
-      "alt": "Reference photo for Floor Chest Fly, a exercise entry in the GLP-1 Strength Coach library."
-    },
     "side-plank-knees": {
       "kind": "photo",
       "provider": "commons",
@@ -699,23 +631,6 @@
       "source": "Wikimedia Commons",
       "originalUrl": "https://commons.wikimedia.org/wiki/File:Yoga_mat.jpg",
       "alt": "Reference photo for Side Plank on Knees, a exercise entry in the GLP-1 Strength Coach library."
-    },
-    "seated-bicep-curl": {
-      "kind": "photo",
-      "provider": "commons",
-      "files": {
-        "480": "/images/seated-bicep-curl-480.webp",
-        "800": "/images/seated-bicep-curl-800.webp",
-        "1280": "/images/seated-bicep-curl-1280.webp"
-      },
-      "width": 1280,
-      "height": 961,
-      "artist": "Santeri Viinamäki",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "source": "Wikimedia Commons",
-      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_on_rack_20180112.jpg",
-      "alt": "Reference photo for Seated Bicep Curl, a exercise entry in the GLP-1 Strength Coach library."
     },
     "wall-sit": {
       "kind": "photo",
@@ -1118,23 +1033,6 @@
       "originalUrl": "https://commons.wikimedia.org/wiki/File:Resistance_band.jpg",
       "alt": "Reference photo for Seated Banded Leg Extension, a exercise entry in the GLP-1 Strength Coach library."
     },
-    "shoulder-shrug-light": {
-      "kind": "photo",
-      "provider": "commons",
-      "files": {
-        "480": "/images/shoulder-shrug-light-480.webp",
-        "800": "/images/shoulder-shrug-light-800.webp",
-        "1280": "/images/shoulder-shrug-light-1280.webp"
-      },
-      "width": 1280,
-      "height": 893,
-      "artist": "Alvinategyeka",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "source": "Wikimedia Commons",
-      "originalUrl": "https://commons.wikimedia.org/wiki/File:Dumbbells_in_a_local_health_club.jpg",
-      "alt": "Reference photo for Light Dumbbell Shoulder Shrug, a exercise entry in the GLP-1 Strength Coach library."
-    },
     "reverse-fly-band": {
       "kind": "photo",
       "provider": "commons",
@@ -1292,9 +1190,109 @@
       "source": "Wikimedia Commons",
       "originalUrl": "https://commons.wikimedia.org/wiki/File:STRONG_%26_KIND_Hickory_smoked_almond_protein_bar.jpg",
       "alt": "Reference photo for Low-Sugar Protein Bar, a food entry in the GLP-1 Strength Coach library."
+    },
+    "goblet-squat": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/goblet-squat-480.webp",
+        "800": "/images/goblet-squat-800.webp",
+        "1280": "/images/goblet-squat-1280.webp"
+      },
+      "width": 1280,
+      "height": 855,
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Fitness_routine_with_dumbbells_and_water_bottle_on_yoga_mat_during_home_workout_session_in_cozy_environment.jpg",
+      "alt": "Reference photo for Goblet Squat, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "seated-shoulder-press": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/seated-shoulder-press-480.webp",
+        "800": "/images/seated-shoulder-press-800.webp",
+        "1280": "/images/seated-shoulder-press-1280.webp"
+      },
+      "width": 1280,
+      "height": 855,
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Performing_strength_exercises_indoors_with_dumbbells_in_natural_light.jpg",
+      "alt": "Reference photo for Seated Dumbbell Shoulder Press, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "romanian-deadlift-light": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/romanian-deadlift-light-480.webp",
+        "800": "/images/romanian-deadlift-light-800.webp",
+        "1280": "/images/romanian-deadlift-light-1280.webp"
+      },
+      "width": 1280,
+      "height": 855,
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Fitness_routine_with_dumbbells_and_water_bottle_on_yoga_mat_during_home_workout_session_in_cozy_environment.jpg",
+      "alt": "Reference photo for Light Dumbbell Romanian Deadlift, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "floor-chest-fly": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/floor-chest-fly-480.webp",
+        "800": "/images/floor-chest-fly-800.webp",
+        "1280": "/images/floor-chest-fly-1280.webp"
+      },
+      "width": 1280,
+      "height": 855,
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Fitness_routine_with_dumbbells_and_water_bottle_on_yoga_mat_during_home_workout_session_in_cozy_environment.jpg",
+      "alt": "Reference photo for Floor Chest Fly, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "seated-bicep-curl": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/seated-bicep-curl-480.webp",
+        "800": "/images/seated-bicep-curl-800.webp",
+        "1280": "/images/seated-bicep-curl-1280.webp"
+      },
+      "width": 1280,
+      "height": 855,
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Performing_strength_exercises_indoors_with_dumbbells_in_natural_light.jpg",
+      "alt": "Reference photo for Seated Bicep Curl, a exercise entry in the GLP-1 Strength Coach library."
+    },
+    "shoulder-shrug-light": {
+      "kind": "photo",
+      "provider": "commons",
+      "files": {
+        "480": "/images/shoulder-shrug-light-480.webp",
+        "800": "/images/shoulder-shrug-light-800.webp",
+        "1280": "/images/shoulder-shrug-light-1280.webp"
+      },
+      "width": 1280,
+      "height": 855,
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "Wikimedia Commons",
+      "originalUrl": "https://commons.wikimedia.org/wiki/File:Performing_strength_exercises_indoors_with_dumbbells_in_natural_light.jpg",
+      "alt": "Reference photo for Light Dumbbell Shoulder Shrug, a exercise entry in the GLP-1 Strength Coach library."
     }
   },
-  "queries_with_no_photo": [
-    "jar of peanut butter powder with a scoop"
-  ]
+  "queries_with_no_photo": []
 }

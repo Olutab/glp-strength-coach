@@ -113,7 +113,7 @@ const ADJUSTED = {
 };
 function sceneAttempts(r) {
   if (r.category === 'EXERCISE') {
-    if (r.equipment === 'LIGHT_DUMBBELLS') return [{ q: 'dumbbells', need: ['dumbbell'] }, { q: 'dumbbell pair', need: ['dumbbell'] }];
+        if (r.equipment === 'LIGHT_DUMBBELLS') return [{ q: 'dumbbells on mat', need: ['dumbbell'] }, { q: 'dumbbell pair home', need: ['dumbbell'] }];
     if (r.equipment === 'BOTH') return [{ q: 'resistance band', need: ['resistance band'] }, { q: 'exercise band', need: ['exercise band'] }];
     return [{ q: 'yoga mat', need: ['mat'] }, { q: 'exercise mat', need: ['mat'] }];
   }
