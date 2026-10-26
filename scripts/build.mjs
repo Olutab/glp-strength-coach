@@ -6,7 +6,7 @@ import { esc, has, seedOf, renderBody, shell, css } from './templates.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, '..');
 const OUT = path.join(root, 'public');
-const SITE_URL = 'http://localhost:8899';
+   const SITE_URL = 'https://glp-strength-coach.vercel.app';
 
 const dna = JSON.parse(readFileSync(path.join(root, 'site.dna.json'), 'utf-8'));
 const manifest = JSON.parse(readFileSync(path.join(root, 'images.manifest.json'), 'utf-8'));
