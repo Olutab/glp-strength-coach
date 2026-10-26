@@ -229,6 +229,7 @@ export function shell({ title, description, canonical, asOf, robots, body, schem
   return `<!doctype html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="7vIyLGQlBH3RsZDkvVpr7DB5bpvx1pBTYKcNYywzD2M" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="${robots}">
